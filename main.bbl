@@ -1,0 +1,34 @@
+\begin{thebibliography}{1}
+
+\bibitem{wujianduxuexi}
+Martin Heller~编译 Charles.
+\newblock 机器学习之无监督学习译义.
+\newblock {\em 计算机世界}, (7).
+
+\bibitem{YangA}
+Yang Ou, Jianqiao Luo, Bailin Li, and Biao He.
+\newblock A classification model of railway fasteners based on computer vision.
+\newblock {\em Neural Computing and Applications}.
+
+\bibitem{SchulzDeep}
+Hannes Schulz and Sven Behnke.
+\newblock Deep learning.
+\newblock {\em KI - Künstliche Intelligenz}, 26(4):357--363.
+
+\bibitem{Nooritawati2009A}
+Nooritawati~Md Tahir, Aini Hussain, Salina~Abdul Samad, and Hafizah Husain.
+\newblock A machine learning approach for posture recognition based on
+  simplified shock graph.
+\newblock 2009.
+
+\bibitem{zongshu}
+胡越, 罗东阳, 花奎, 路海明, and 张学工.
+\newblock 关于深度学习的综述与讨论.
+\newblock {\em 智能系统学报}, pages 1--19, 2019.
+
+\bibitem{shenduxuexi}
+袁冰清, 张杰, and 王岩松.
+\newblock 深度学习.
+\newblock {\em 字通信世界}, pages 36--37.
+
+\end{thebibliography}
